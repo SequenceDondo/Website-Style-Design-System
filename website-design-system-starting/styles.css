@@ -1,0 +1,96 @@
+body {
+    font-family: 'Barlow', sans-serif;
+    margin: 0 10%; 
+    
+
+}
+
+.container{
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 10px auto;
+
+}
+
+.color-container {
+    width: 100%;
+   
+  }
+  
+
+.color-container p {
+     text-align: center;
+     line-height: 2.8;
+    
+}
+
+
+.coolBlue {
+    background-color: #2d5dcc;
+    color: white;
+    padding: 20px 20px;
+    width: 25%;
+    display: inline-block;
+}
+
+.Pink {
+    background-color: #d957d9;
+    padding: 20px 20px;
+    width: 25%;
+    display: inline-block;
+}
+
+.mintGreen {
+    background-color: #4fe0b0;
+    padding: 20px 20px;
+    width: 25%;
+    display: inline-block;
+}
+
+.Beige {
+    background-color: #efd9ca;
+    padding: 20px 20px;
+    width: 25%;
+    display: inline-block;
+}
+
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+    font-size: 18px;
+}
+
+.regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+
+
+.philosopher {
+    font-family: 'Philosopher', sans-serif;
+   
+}
+
+.Bellota {
+    font-family: 'Bellota', cursive;
+}
+
+.Barlow {
+    font-family: 'Barlow', sans-serif;
+}
+
+.text-container {
+    line-height: 1.8;
+}
+
+
+
+
